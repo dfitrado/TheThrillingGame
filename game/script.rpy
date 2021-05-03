@@ -46,11 +46,7 @@ label start:
 
         "To go down stairs.":
 
-            jump downstairs
-
-        "What to do?":
-
-            jump start
+            jump downstairs 
 
 label downstairs:
     play music "audio/Kevin Macleod SPC x2x Unseen Presence.mp3"
@@ -108,9 +104,9 @@ label downstairs2:
             jump mainRoom 
 
 label mainRoom: 
-    play music "audio/ES_Abandoned Warehouse - SFX Producer.mp3"
     scene bg bunker
     with fade 
+    play music "audio/ES_Abandoned Warehouse - SFX Producer.mp3"
 
     e "Where am I?"
 
@@ -126,9 +122,10 @@ label mainRoom:
             jump ending
 
 label spiderRoom:
-    play music "Big Drumming.mp3"
     scene bg twodoors
     with fade
+    
+    play music "Big Drumming.mp3"
     
     e "What room is it?"    
 
@@ -150,9 +147,9 @@ label spiderRoom:
             jump ending
 
 label mainRoom1:
-    play music "audio/ES_Abandoned Warehouse - SFX Producer.mp3"
     scene bg bunker
     with fade 
+    play music "audio/ES_Abandoned Warehouse - SFX Producer.mp3"
 
     e "Lucky me, I don’t have to fight that spider!"
 
@@ -166,9 +163,9 @@ label mainRoom1:
             jump spiderRoom
 
 label spiderRoom1:
-    play music "audio/Big Drumming.mp3"
     scene bg twodoors
     with fade 
+    play music "audio/Big Drumming.mp3"
 
     e "What room is it? looks familiar"    
 
