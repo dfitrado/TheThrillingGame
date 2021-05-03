@@ -720,6 +720,13 @@ screen preferences():
 
         vbox:
 
+            hbox:  
+                vbox:
+                    style_prefix "radio"
+                    label _("Language")
+                    textbutton "English" action Language(None)
+                    textbutton "Bahasa Indonesia" action Language("indonesia")
+
             hbox:
                 box_wrap True
 
