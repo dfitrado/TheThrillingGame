@@ -124,13 +124,11 @@ label mainRoom:
 label spiderRoom:
     scene bg twodoors
     with fade
-    
-    play music "Big Drumming.mp3"
-    
+    play music "audio/Big Drumming.mp3"
+
     e "What room is it?"    
 
     "Something appeared.."
-
     show sprite spider 
 
     e "Oh my God! There’s a big spider!"
