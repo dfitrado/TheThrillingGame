@@ -4,307 +4,307 @@ translate indonesia strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new ""
+    new "Self-voicing dinonaktifkan"
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new ""
+    new "Clipboard voicing dinonaktifkan"
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new ""
+    new "Self-voicing diaktifkan."
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
-    new ""
+    new "bar"
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new ""
+    new "terpilih"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
-    new ""
+    new "viewport"
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
-    new ""
+    new "gulir horizontal"
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
-    new ""
+    new "gulir vertikal"
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
-    new ""
+    new "mengaktifkan"
 
     # renpy/common/00accessibility.rpy:38
     old "deactivate"
-    new ""
+    new "menonaktifkan"
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
-    new ""
+    new "meningkatkan"
 
     # renpy/common/00accessibility.rpy:40
     old "decrease"
-    new ""
+    new "mengurangi"
 
     # renpy/common/00accessibility.rpy:128
     old "Font Override"
-    new ""
+    new "Penggantian Font"
 
     # renpy/common/00accessibility.rpy:132
     old "Default"
-    new ""
+    new "Default"
 
     # renpy/common/00accessibility.rpy:136
     old "DejaVu Sans"
-    new ""
+    new "DejaVu Sans"
 
     # renpy/common/00accessibility.rpy:140
     old "Opendyslexic"
-    new ""
+    new "Opendyslexic"
 
     # renpy/common/00accessibility.rpy:146
     old "Text Size Scaling"
-    new ""
+    new "Penskalaan Ukuran Teks"
 
     # renpy/common/00accessibility.rpy:152
     old "Reset"
-    new ""
+    new "Setel ulang"
 
     # renpy/common/00accessibility.rpy:158
     old "Line Spacing Scaling"
-    new ""
+    new "Penskalaan Ukuran Teks"
 
     # renpy/common/00accessibility.rpy:171
     old "Self-Voicing"
-    new ""
+    new "Self-Voicing"
 
     # renpy/common/00accessibility.rpy:175
     old "Off"
-    new ""
+    new "Mati"
 
     # renpy/common/00accessibility.rpy:179
     old "Text-to-speech"
-    new ""
+    new "Teks-ke-ucapan"
 
     # renpy/common/00accessibility.rpy:183
     old "Clipboard"
-    new ""
+    new "Clipboard"
 
     # renpy/common/00accessibility.rpy:187
     old "Debug"
-    new ""
+    new "Debug"
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing Volume Drop"
-    new ""
+    new "Penurunan Suara Self-Voicing"
 
     # renpy/common/00accessibility.rpy:202
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new ""
+    new "Opsi pada menu ini dimaksudkan untuk meningkatkan aksesibilitas. Mereka mungkin tidak bekerja dengan semua game, dan beberapa kombinasi opsi mungkin membuat game tidak dapat dimainkan. Ini bukan masalah dengan game atau mesin. Untuk hasil terbaik saat mengubah font, coba pertahankan ukuran teks seperti aslinya."
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new ""
+    new "{#weekday}Senin"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new ""
+    new "{#weekday}Selasa"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new ""
+    new "{#weekday}Rabu"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
-    new ""
+    new "{#weekday}Kamis"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Friday"
-    new ""
+    new "{#weekday}Jumat"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-    new ""
+    new "{#weekday}Sabtu"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
-    new ""
+    new "{#weekday}Minggu"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new ""
+    new "{#weekday_short}Sen"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new ""
+    new "{#weekday_short}Sel"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new ""
+    new "{#weekday_short}Rab"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new ""
+    new "{#weekday_short}Kam"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new ""
+    new "{#weekday_short}Jum"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new ""
+    new "{#weekday_short}Sab"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new ""
+    new "{#weekday_short}Min"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
-    new ""
+    new "{#month}Januari"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}February"
-    new ""
+    new "{#month}Februari"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}March"
-    new ""
+    new "{#month}Maret"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}April"
-    new ""
+    new "{#month}April"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}May"
-    new ""
+    new "{#month}Mei"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}June"
-    new ""
+    new "{#month}Juni"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}July"
-    new ""
+    new "{#month}Jul"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}August"
-    new ""
+    new "{#month}Agustus"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}September"
-    new ""
+    new "{#month}September"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}October"
-    new ""
+    new "{#month}Oktober"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}November"
-    new ""
+    new "{#month}Nopember"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}December"
-    new ""
+    new "{#month}Desember"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jan"
-    new ""
+    new "{#month_short}Jan"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Feb"
-    new ""
+    new "{#month_short}Feb"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Mar"
-    new ""
+    new "{#month_short}Mar"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Apr"
-    new ""
+    new "{#month_short}Apr"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}May"
-    new ""
+    new "{#month_short}Mei"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jun"
-    new ""
+    new "{#month_short}Jun"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jul"
-    new ""
+    new "{#month_short}Jul"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Aug"
-    new ""
+    new "{#month_short}Agu"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Sep"
-    new ""
+    new "{#month_short}Sep"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Oct"
-    new ""
+    new "{#month_short}Okt"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Nov"
-    new ""
+    new "{#month_short}Nop"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Dec"
-    new ""
+    new "{#month_short}Des"
 
     # renpy/common/00action_file.rpy:240
     old "%b %d, %H:%M"
-    new ""
+    new "%b %d, %H:%M"
 
     # renpy/common/00action_file.rpy:353
     old "Save slot %s: [text]"
-    new ""
+    new "Simpan slot %s: [text]"
 
     # renpy/common/00action_file.rpy:434
     old "Load slot %s: [text]"
-    new ""
+    new "Memuat slot %s: [text]"
 
     # renpy/common/00action_file.rpy:487
     old "Delete slot [text]"
-    new ""
+    new "Hapus slot [text]"
 
     # renpy/common/00action_file.rpy:566
     old "File page auto"
-    new ""
+    new "Halaman file otomatis"
 
     # renpy/common/00action_file.rpy:568
     old "File page quick"
-    new ""
+    new "Halaman file cepat"
 
     # renpy/common/00action_file.rpy:570
     old "File page [text]"
-    new ""
+    new "Halaman file [text]"
 
     # renpy/common/00action_file.rpy:769
     old "Next file page."
-    new ""
+    new "Halaman file berikutnya"
 
     # renpy/common/00action_file.rpy:841
     old "Previous file page."
-    new ""
+    new "Halaman file sebelumnya"
 
     # renpy/common/00action_file.rpy:902
     old "Quick save complete."
-    new ""
+    new "Penyimpanan cepat selesai."
 
     # renpy/common/00action_file.rpy:920
     old "Quick save."
-    new ""
+    new "Penyimpanan cepat."
 
     # renpy/common/00action_file.rpy:939
     old "Quick load."
-    new ""
+    new "Memuat cepat."
 
     # renpy/common/00action_other.rpy:375
     old "Language [text]"
@@ -312,653 +312,653 @@ translate indonesia strings:
 
     # renpy/common/00director.rpy:708
     old "The interactive director is not enabled here."
-    new ""
+    new "Direktur interaktif tidak diaktifkan di sini."
 
     # renpy/common/00director.rpy:1481
     old "⬆"
-    new ""
+    new "⬆"
 
     # renpy/common/00director.rpy:1487
     old "⬇"
-    new ""
+    new "⬇"
 
     # renpy/common/00director.rpy:1551
     old "Done"
-    new ""
+    new "Selesai"
 
     # renpy/common/00director.rpy:1561
     old "(statement)"
-    new ""
+    new "(statement)"
 
     # renpy/common/00director.rpy:1562
     old "(tag)"
-    new ""
+    new "(tag)"
 
     # renpy/common/00director.rpy:1563
     old "(attributes)"
-    new ""
+    new "(attributes)"
 
     # renpy/common/00director.rpy:1564
     old "(transform)"
-    new ""
+    new "(transform)"
 
     # renpy/common/00director.rpy:1589
     old "(transition)"
-    new ""
+    new "(transition)"
 
     # renpy/common/00director.rpy:1601
     old "(channel)"
-    new ""
+    new "(channel)"
 
     # renpy/common/00director.rpy:1602
     old "(filename)"
-    new ""
+    new "(filename)"
 
     # renpy/common/00director.rpy:1631
     old "Change"
-    new ""
+    new "Mengganti"
 
     # renpy/common/00director.rpy:1633
     old "Add"
-    new ""
+    new "Menambahkan"
 
     # renpy/common/00director.rpy:1636
     old "Cancel"
-    new ""
+    new "Membatalkan"
 
     # renpy/common/00director.rpy:1639
     old "Remove"
-    new ""
+    new "menghapus"
 
     # renpy/common/00director.rpy:1674
     old "Statement:"
-    new ""
+    new "Pernyataan:"
 
     # renpy/common/00director.rpy:1695
     old "Tag:"
-    new ""
+    new "Tag:"
 
     # renpy/common/00director.rpy:1711
     old "Attributes:"
-    new ""
+    new "Atribut:"
 
     # renpy/common/00director.rpy:1729
     old "Transforms:"
-    new ""
+    new "Transformasi:"
 
     # renpy/common/00director.rpy:1748
     old "Behind:"
-    new ""
+    new "Dibelakang:"
 
     # renpy/common/00director.rpy:1767
     old "Transition:"
-    new ""
+    new "Transisi:"
 
     # renpy/common/00director.rpy:1785
     old "Channel:"
-    new ""
+    new "Channel:"
 
     # renpy/common/00director.rpy:1803
     old "Audio Filename:"
-    new ""
+    new "Nama File Audio:"
 
     # renpy/common/00gui.rpy:374
     old "Are you sure?"
-    new ""
+    new "Apakah kamu yakin?"
 
     # renpy/common/00gui.rpy:375
     old "Are you sure you want to delete this save?"
-    new ""
+    new "Anda yakin ingin menghapus penyimpanan ini?"
 
     # renpy/common/00gui.rpy:376
     old "Are you sure you want to overwrite your save?"
-    new ""
+    new "Anda yakin ingin menimpa penyimpanan Anda?"
 
     # renpy/common/00gui.rpy:377
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new ""
+    new "Memuat akan kehilangan kemajuan yang belum disimpan. \nYakin ingin melakukan ini?"
 
     # renpy/common/00gui.rpy:378
     old "Are you sure you want to quit?"
-    new ""
+    new "Apakah Anda yakin ingin berhenti?"
 
     # renpy/common/00gui.rpy:379
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new ""
+    new "Yakin ingin kembali ke menu utama? \n Aksi ini akan kehilangan kemajuan yang belum disimpan"
 
     # renpy/common/00gui.rpy:380
     old "Are you sure you want to end the replay?"
-    new ""
+    new "Yakin ingin mengakhiri pemutaran ulang?"
 
     # renpy/common/00gui.rpy:381
     old "Are you sure you want to begin skipping?"
-    new ""
+    new "Anda yakin ingin mulai melompati?"
 
     # renpy/common/00gui.rpy:382
     old "Are you sure you want to skip to the next choice?"
-    new ""
+    new "Yakin ingin melompat ke pilihan berikutnya?"
 
     # renpy/common/00gui.rpy:383
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new ""
+    new "Anda yakin ingin melewatkan dialog tak terlihat ke pilihan berikutnya?"
 
     # renpy/common/00keymap.rpy:300
     old "Failed to save screenshot as %s."
-    new ""
+    new "Gagal menyimpan tangkapan layar sebagai %s."
 
     # renpy/common/00keymap.rpy:312
     old "Saved screenshot as %s."
-    new ""
+    new "Tangkapan layar tersimpan sebagai %s."
 
     # renpy/common/00library.rpy:195
     old "Skip Mode"
-    new ""
+    new "Lewati Mode"
 
     # renpy/common/00library.rpy:281
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new ""
+    new "Program ini berisi perangkat lunak gratis di bawah sejumlah lisensi, termasuk Lisensi MIT dan Lisensi Publik Umum Lebih Rendah GNU. Daftar lengkap perangkat lunak, termasuk tautan ke kode sumber lengkap, dapat ditemukan {a=https://www.renpy.org/l/license}di sini{/a}."
 
     # renpy/common/00preferences.rpy:240
     old "display"
-    new ""
+    new "layar"
 
     # renpy/common/00preferences.rpy:252
     old "transitions"
-    new ""
+    new "transisi"
 
     # renpy/common/00preferences.rpy:261
     old "skip transitions"
-    new ""
+    new "lewati transisi"
 
     # renpy/common/00preferences.rpy:263
     old "video sprites"
-    new ""
+    new "sprite video"
 
     # renpy/common/00preferences.rpy:272
     old "show empty window"
-    new ""
+    new "tampilkan jendela kosong"
 
     # renpy/common/00preferences.rpy:281
     old "text speed"
-    new ""
+    new "kecepatan teks"
 
     # renpy/common/00preferences.rpy:289
     old "joystick"
-    new ""
+    new "joystick"
 
     # renpy/common/00preferences.rpy:289
     old "joystick..."
-    new ""
+    new "joystick..."
 
     # renpy/common/00preferences.rpy:296
     old "skip"
-    new ""
+    new "lewati"
 
     # renpy/common/00preferences.rpy:299
     old "skip unseen [text]"
-    new ""
+    new "lewati [teks] tak terlihat"
 
     # renpy/common/00preferences.rpy:304
     old "skip unseen text"
-    new ""
+    new "lewati teks tak terlihat"
 
     # renpy/common/00preferences.rpy:306
     old "begin skipping"
-    new ""
+    new "mulai melompati"
 
     # renpy/common/00preferences.rpy:310
     old "after choices"
-    new ""
+    new "setelah pilihan"
 
     # renpy/common/00preferences.rpy:317
     old "skip after choices"
-    new ""
+    new "melompati setelah pilihan"
 
     # renpy/common/00preferences.rpy:319
     old "auto-forward time"
-    new ""
+    new "waktu maju otomatis"
 
     # renpy/common/00preferences.rpy:333
     old "auto-forward"
-    new ""
+    new "maju-otomatis"
 
     # renpy/common/00preferences.rpy:340
     old "Auto forward"
-    new ""
+    new "Maju otomatis"
 
     # renpy/common/00preferences.rpy:343
     old "auto-forward after click"
-    new ""
+    new "Maju otomatis setelah klik"
 
     # renpy/common/00preferences.rpy:352
     old "automatic move"
-    new ""
+    new "bergerak otomatis"
 
     # renpy/common/00preferences.rpy:361
     old "wait for voice"
-    new ""
+    new "tunggu suaranya"
 
     # renpy/common/00preferences.rpy:370
     old "voice sustain"
-    new ""
+    new "suara menopang"
 
     # renpy/common/00preferences.rpy:379
     old "self voicing"
-    new ""
+    new "self voicing"
 
     # renpy/common/00preferences.rpy:388
     old "self voicing volume drop"
-    new ""
+    new "penurunan volume self voicing"
 
     # renpy/common/00preferences.rpy:396
     old "clipboard voicing"
-    new ""
+    new "clipboard voicing"
 
     # renpy/common/00preferences.rpy:405
     old "debug voicing"
-    new ""
+    new "debug voicing"
 
     # renpy/common/00preferences.rpy:414
     old "emphasize audio"
-    new ""
+    new "menekankan audio"
 
     # renpy/common/00preferences.rpy:423
     old "rollback side"
-    new ""
+    new "rollback sisi"
 
     # renpy/common/00preferences.rpy:433
     old "gl powersave"
-    new ""
+    new "gl powersave"
 
     # renpy/common/00preferences.rpy:439
     old "gl framerate"
-    new ""
+    new "gl framerate"
 
     # renpy/common/00preferences.rpy:442
     old "gl tearing"
-    new ""
+    new "gl tearing"
 
     # renpy/common/00preferences.rpy:445
     old "font transform"
-    new ""
+    new "transformasi font"
 
     # renpy/common/00preferences.rpy:448
     old "font size"
-    new ""
+    new "ukuran font"
 
     # renpy/common/00preferences.rpy:456
     old "font line spacing"
-    new ""
+    new "spasi baris font"
 
     # renpy/common/00preferences.rpy:464
     old "system cursor"
-    new ""
+    new "kursor sistem"
 
     # renpy/common/00preferences.rpy:484
     old "music volume"
-    new ""
+    new "volume musik"
 
     # renpy/common/00preferences.rpy:485
     old "sound volume"
-    new ""
+    new "volume suara(sound)"
 
     # renpy/common/00preferences.rpy:486
     old "voice volume"
-    new ""
+    new "volume suara(voice)"
 
     # renpy/common/00preferences.rpy:487
     old "mute music"
-    new ""
+    new "matikan musik"
 
     # renpy/common/00preferences.rpy:488
     old "mute sound"
-    new ""
+    new "matikan suara(sound)"
 
     # renpy/common/00preferences.rpy:489
     old "mute voice"
-    new ""
+    new "matikan suara(voice)"
 
     # renpy/common/00preferences.rpy:490
     old "mute all"
-    new ""
+    new "matikan semua suara"
 
     # renpy/common/00preferences.rpy:571
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new ""
+    new "Suara clipboard diaktifkan. Tekan 'shift + C' untuk menonaktifkan."
 
     # renpy/common/00preferences.rpy:573
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new ""
+    new "Self-voicing akan mengatakan \"[renpy.display.tts.last]\". Tekan 'alt + shift + V' untuk menonaktifkan."
 
     # renpy/common/00preferences.rpy:575
     old "Self-voicing enabled. Press 'v' to disable."
-    new ""
+    new "Self-voicing diaktifkan. Tekan 'v' untuk menonaktifkan."
 
     # renpy/common/00iap.rpy:219
     old "Contacting App Store\nPlease Wait..."
-    new ""
+    new "Menghubungi App Store\nHarap Tunggu ..."
 
     # renpy/common/00updater.rpy:374
     old "The Ren'Py Updater is not supported on mobile devices."
-    new ""
+    new "Pembaruan Ren'Py tidak didukung pada perangkat seluler."
 
     # renpy/common/00updater.rpy:493
     old "An error is being simulated."
-    new ""
+    new "Eror sedang disimulasikan."
 
     # renpy/common/00updater.rpy:677
     old "Either this project does not support updating, or the update status file was deleted."
-    new ""
+    new "Entah proyek ini tidak mendukung pembaruan, atau file status pembaruan telah dihapus."
 
     # renpy/common/00updater.rpy:691
     old "This account does not have permission to perform an update."
-    new ""
+    new "Akun ini tidak memiliki izin untuk melakukan pembaruan."
 
     # renpy/common/00updater.rpy:694
     old "This account does not have permission to write the update log."
-    new ""
+    new "Akun ini tidak memiliki izin untuk menulis log pembaruan."
 
     # renpy/common/00updater.rpy:721
     old "Could not verify update signature."
-    new ""
+    new "Tidak dapat memverifikasi pembaruan."
 
     # renpy/common/00updater.rpy:992
     old "The update file was not downloaded."
-    new ""
+    new "File pembaruan tidak diunduh."
 
     # renpy/common/00updater.rpy:1010
     old "The update file does not have the correct digest - it may have been corrupted."
-    new ""
+    new "File pembaruan tidak memiliki sumber yang benar - mungkin telah rusak."
 
     # renpy/common/00updater.rpy:1064
     old "While unpacking {}, unknown type {}."
-    new ""
+    new "Saat membongkar {}, jenis tidak diketahui {}"
 
     # renpy/common/00updater.rpy:1430
     old "Updater"
-    new ""
+    new "Pembaru"
 
     # renpy/common/00updater.rpy:1437
     old "An error has occured:"
-    new ""
+    new "Sebuah eror telah terjadi:"
 
     # renpy/common/00updater.rpy:1439
     old "Checking for updates."
-    new ""
+    new "Memeriksa pembaruan."
 
     # renpy/common/00updater.rpy:1441
     old "This program is up to date."
-    new ""
+    new "Program ini sudah yang terbaru."
 
     # renpy/common/00updater.rpy:1443
     old "[u.version] is available. Do you want to install it?"
-    new ""
+    new "[u.version] tersedia. Apakah Anda ingin memasangnya?"
 
     # renpy/common/00updater.rpy:1445
     old "Preparing to download the updates."
-    new ""
+    new "Bersiap untuk mengunduh pembaruan."
 
     # renpy/common/00updater.rpy:1447
     old "Downloading the updates."
-    new ""
+    new "Mengunduh pembaruan."
 
     # renpy/common/00updater.rpy:1449
     old "Unpacking the updates."
-    new ""
+    new "Membongkar pembaruan."
 
     # renpy/common/00updater.rpy:1451
     old "Finishing up."
-    new ""
+    new "Menyelesaikan."
 
     # renpy/common/00updater.rpy:1453
     old "The updates have been installed. The program will restart."
-    new ""
+    new "Pembaruan telah diinstal. Program akan dimulai ulang."
 
     # renpy/common/00updater.rpy:1455
     old "The updates have been installed."
-    new ""
+    new "Pembaruan telah diinstal."
 
     # renpy/common/00updater.rpy:1457
     old "The updates were cancelled."
-    new ""
+    new "Pembaruan dibatalkan."
 
     # renpy/common/00updater.rpy:1472
     old "Proceed"
-    new ""
+    new "Memproses"
 
     # renpy/common/00gallery.rpy:590
     old "Image [index] of [count] locked."
-    new ""
+    new "Gambar [indeks] dari [hitungan] dikunci."
 
     # renpy/common/00gallery.rpy:610
     old "prev"
-    new ""
+    new "sebelumnya"
 
     # renpy/common/00gallery.rpy:611
     old "next"
-    new ""
+    new "selanjutnya"
 
     # renpy/common/00gallery.rpy:612
     old "slideshow"
-    new ""
+    new "slideshow"
 
     # renpy/common/00gallery.rpy:613
     old "return"
-    new ""
+    new "kembali"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
-    new ""
+    new "Perender"
 
     # renpy/common/00gltest.rpy:93
     old "Automatically Choose"
-    new ""
+    new "Pilih Secara Otomatis"
 
     # renpy/common/00gltest.rpy:100
     old "Force GL Renderer"
-    new ""
+    new "Memaksa GL Renderer"
 
     # renpy/common/00gltest.rpy:105
     old "Force ANGLE Renderer"
-    new ""
+    new "Memaksa ANGLE Renderer"
 
     # renpy/common/00gltest.rpy:110
     old "Force GLES Renderer"
-    new ""
+    new "Memaksa GLES Renderer"
 
     # renpy/common/00gltest.rpy:116
     old "Force GL2 Renderer"
-    new ""
+    new "Memaksa GL2 Renderer"
 
     # renpy/common/00gltest.rpy:121
     old "Force ANGLE2 Renderer"
-    new ""
+    new "Memaksa ANGLE2 Renderer"
 
     # renpy/common/00gltest.rpy:126
     old "Force GLES2 Renderer"
-    new ""
+    new "Memaksa GLES2 Renderer"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
-    new ""
+    new "Aktifkan (Tanpa Daftar Blokir)"
 
     # renpy/common/00gltest.rpy:140
     old "Enable"
-    new ""
+    new "Aktifkan"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
-    new ""
+    new "Hemat energi"
 
     # renpy/common/00gltest.rpy:173
     old "Framerate"
-    new ""
+    new "Framerate"
 
     # renpy/common/00gltest.rpy:177
     old "Screen"
-    new ""
+    new "Layar"
 
     # renpy/common/00gltest.rpy:181
     old "60"
-    new ""
+    new "60"
 
     # renpy/common/00gltest.rpy:185
     old "30"
-    new ""
+    new "30"
 
     # renpy/common/00gltest.rpy:191
     old "Tearing"
-    new ""
+    new "Tearing"
 
     # renpy/common/00gltest.rpy:207
     old "Changes will take effect the next time this program is run."
-    new ""
+    new "Perubahan akan berlaku saat program ini dijalankan lagi."
 
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
-    new ""
+    new "Peringatan Performa"
 
     # renpy/common/00gltest.rpy:247
     old "This computer is using software rendering."
-    new ""
+    new "Komputer ini menggunakan pembuatan perangkat lunak."
 
     # renpy/common/00gltest.rpy:249
     old "This game requires use of GL2 that can't be initialised."
-    new ""
+    new "Game ini membutuhkan penggunaan GL2 yang tidak dapat dijalankan."
 
     # renpy/common/00gltest.rpy:251
     old "This computer has a problem displaying graphics: [problem]."
-    new ""
+    new "Komputer ini mengalami masalah saat menampilkan grafik: [masalah]."
 
     # renpy/common/00gltest.rpy:255
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new ""
+    new "Driver grafisnya mungkin kedaluwarsa atau tidak beroperasi dengan benar. Hal ini dapat menyebabkan tampilan grafik menjadi lambat atau salah."
 
     # renpy/common/00gltest.rpy:259
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new ""
+    new "File {a=edit:1:log.txt} log.txt {/a} mungkin berisi informasi untuk membantu Anda menentukan apa yang salah dengan komputer Anda."
 
     # renpy/common/00gltest.rpy:264
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new ""
+    new "Detail selengkapnya tentang cara memperbaikinya dapat ditemukan di {a=[url]} dokumentasi {/a}."
 
     # renpy/common/00gltest.rpy:269
     old "Continue, Show this warning again"
-    new ""
+    new "Lanjutkan, Tunjukkan peringatan ini lagi"
 
     # renpy/common/00gltest.rpy:273
     old "Continue, Don't show warning again"
-    new ""
+    new "Lanjutkan, Jangan tampilkan peringatan lagi"
 
     # renpy/common/00gltest.rpy:281
     old "Change render options"
-    new ""
+    new "Ubah opsi render"
 
     # renpy/common/00gamepad.rpy:32
     old "Select Gamepad to Calibrate"
-    new ""
+    new "Pilih Gamepad untuk Mengkalibrasi"
 
     # renpy/common/00gamepad.rpy:35
     old "No Gamepads Available"
-    new ""
+    new "Tidak Ada Gamepad yang Tersedia"
 
     # renpy/common/00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
-    new ""
+    new "Mengkalibrasi [nama] ([i]/[total])"
 
     # renpy/common/00gamepad.rpy:58
     old "Press or move the '[control!s]' [kind]."
-    new ""
+    new "Tekan atau pindahkan '[control!s]' [jenis]."
 
     # renpy/common/00gamepad.rpy:68
     old "Skip (A)"
-    new ""
+    new "Melompati (A)"
 
     # renpy/common/00gamepad.rpy:71
     old "Back (B)"
-    new ""
+    new "Kembali (B)"
 
     # renpy/common/_errorhandling.rpym:542
     old "Open"
-    new ""
+    new "Buka"
 
     # renpy/common/_errorhandling.rpym:544
     old "Opens the traceback.txt file in a text editor."
-    new ""
+    new "Membuka file traceback.txt di editor teks."
 
     # renpy/common/_errorhandling.rpym:546
     old "Copy BBCode"
-    new ""
+    new "Salin BBCode"
 
     # renpy/common/_errorhandling.rpym:548
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new ""
+    new "Salin file traceback.txt ke clipboard sebagai BBcode untuk forum seperti https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym:550
     old "Copy Markdown"
-    new ""
+    new "Salin Markdown"
 
     # renpy/common/_errorhandling.rpym:552
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-    new ""
+    new "Menyalin file traceback.txt ke clipboard sebagai Markdown untuk Discord"
 
     # renpy/common/_errorhandling.rpym:581
     old "An exception has occurred."
-    new ""
+    new "Pengecualian telah terjadi."
 
     # renpy/common/_errorhandling.rpym:604
     old "Rollback"
-    new ""
+    new "Rollback"
 
     # renpy/common/_errorhandling.rpym:606
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new ""
+    new "Mencoba memutar kembali ke waktu sebelumnya, memungkinkan Anda menyimpan atau memilih pilihan lain."
 
     # renpy/common/_errorhandling.rpym:609
     old "Ignore"
-    new ""
+    new "Mengabaikan"
 
     # renpy/common/_errorhandling.rpym:613
     old "Ignores the exception, allowing you to continue."
-    new ""
+    new "Mengabaikan pengecualian, memungkinkan Anda untuk melanjutkan."
 
     # renpy/common/_errorhandling.rpym:615
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new ""
+    new "Mengabaikan pengecualian, memungkinkan Anda untuk melanjutkan. Ini sering kali menyebabkan kesalahan tambahan."
 
     # renpy/common/_errorhandling.rpym:619
     old "Reload"
-    new ""
+    new "Muat ulang"
 
     # renpy/common/_errorhandling.rpym:621
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new ""
+    new "Memuat ulang game dari disk, menyimpan dan memulihkan status game jika memungkinkan."
 
     # renpy/common/_errorhandling.rpym:624
     old "Console"
-    new ""
+    new "Console"
 
     # renpy/common/_errorhandling.rpym:626
     old "Opens a console to allow debugging the problem."
-    new ""
+    new "Membuka konsol untuk memungkinkan debugging masalah."
 
     # renpy/common/_errorhandling.rpym:639
     old "Quits the game."
-    new ""
+    new "Keluar dari permainan."
 
     # renpy/common/_errorhandling.rpym:660
     old "Parsing the script failed."
-    new ""
+    new "Penguraian skrip gagal."
 
     # renpy/common/_errorhandling.rpym:686
     old "Opens the errors.txt file in a text editor."
-    new ""
+    new "Membuka file error.txt di editor teks."
 
     # renpy/common/_errorhandling.rpym:690
     old "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new ""
+    new "Menyalin file error.txt ke clipboard sebagai BBcode untuk forum seperti https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym:694
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
-    new ""
+    new "Menyalin file error.txt ke clipboard sebagai Markdown untuk Discord."
 
